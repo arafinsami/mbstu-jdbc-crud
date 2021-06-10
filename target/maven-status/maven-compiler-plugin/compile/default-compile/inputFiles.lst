@@ -1,0 +1,10 @@
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/utils/DbUtils.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/service/StudentService.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/entity/Student.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/controller/IndexController.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/daoimpl/StudentDaoImpl.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/serviceimpl/StudentServiceImpl.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/controller/SaveController.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/controller/DeleteController.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/dao/StudentDao.java
+/home/sami/projects/eclipse/mbstu-jdbc-crud/src/main/java/com/mbstu/controller/EditController.java
