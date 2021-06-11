@@ -29,7 +29,7 @@ public class StudentDaoImpl implements StudentDao {
 	public Student findById(int id) throws SQLException {
 		Student student = null;
 		Connection connection = DbUtils.connection();
-		String query = "SELECT * student WHERE id=?";
+		String query = "SELECT * FROM student WHERE id=?";
 		PreparedStatement ps = connection.prepareStatement(query);
 		ps.setInt(1, id);
 		ResultSet rs = ps.executeQuery();
